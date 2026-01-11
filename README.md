@@ -97,6 +97,10 @@ The dataset is now available [Electric Vehicle Sales by State in India.csv](http
 
                                                     
                                                   ## 📈 Dynamic Power BI Dashboards
+                                                  
+  ![EV_Sales Dashboard](https://github.com/user-attachments/assets/7639e9c3-04d4-41ec-9855-f9c4015c388d)
+                       
+
 
                        
 
